@@ -1,1 +1,2 @@
-# best-practices-js
+# Best Practices JavaScript
+
